@@ -1,6 +1,6 @@
 # Most Streamed Spotify Songs 2023 – Data Analysis & Classification
 
-This project explores the most streamed Spotify songs of 2023, performing exploratory data analysis (EDA) and building predictive classification models.
+This repository explores the most streamed Spotify songs of 2023, performing exploratory data analysis (EDA) and building predictive classification models.
 
 ---
 
@@ -32,10 +32,9 @@ This project explores the most streamed Spotify songs of 2023, performing explor
 
 ---
 
-## Technologies
+## Tools & Technologies
 
-- Python 3.x, Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
+- Python 3.x
+- NumPy / Pandas / Matplotlib / Seaborn / Scikit-learn   
 - Jupyter Notebook
 - Visual Studio Code  
